@@ -12,7 +12,7 @@
     },
     "preview": {
       "env": {
-        "OPENAI_API_KEY": "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"
+        "OPENAI_API_KEY": ""
       },
       "distribution": "internal",
       "ios": {
